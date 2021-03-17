@@ -12,7 +12,7 @@ Objective: familiarize with Github
 # 1: Create a DSPS repo
 - Make an account on GitHub if you do not have one yet
 
-- Create a repository called MLPNS_\<firstinitialLastname\>. Follow the instructions in the [githubCreateRepoCmds.md](githubCreateRepoCmds.md markdown file). Please also see [slides](https://slides.com/federicabianco/mlnps_1) for details
+- Create a repository called MLPNS_\<firstinitialLastname\>. Follow the instructions in the githubCreateRepoCmds.md markdown file. Please also see [slides](https://slides.com/federicabianco/mlnps_1) for details
   
   
 # 2: Follow the instructions in githubCreateRepoCmds.md
