@@ -62,6 +62,8 @@ git push
 
 then follow the directions in the image above (use the appropriate URL in the command below)
 
+If you do not have access to a terminal unstead the option "initialize the repository with a README" in the seconf image.
+
 ```
 git remote add origin  https://github.com/fedhere/gittest_fbianco.git
 git push -u origin master 
