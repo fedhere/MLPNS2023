@@ -10,12 +10,3 @@ DESCRIBE (in a caption to your figure) the behavior you see in the plots in term
 
 PLOT the distributions of all sample means (together for all distributions). Mandatory: as a histogram. Optional: in any other way you think is convincing
 
-667 students: FIT a gaussian to the distribution of means
-
-GRADING: Your notebook must:
-
-generate the distributions, correctly generated for each of the 5 ditributions, all with same mean.
-
-display all plots: a scatter plot per distribution and a histogram of all distributions, usual rules for plotting applying: visible and readable axes, title, legend, caption.
-
-each plot must have a caption which describes the plot in terms of Central Limit Theorem
