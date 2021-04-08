@@ -1,5 +1,7 @@
 # Please read in full before you start!
 
+**UPLOAD YOUR WORK TO YOUR GITHUB MLPNS REPOSITORY AND SEND ME YOUR REPOSITORY LINK BY EMAIL**
+
 
 ## feel free to ask question on zoom or on slack!
 
@@ -28,4 +30,3 @@ Your "grade" will be based on the rendered notebook, i.e. on the summary a table
 After grading your notebook based on the rendered version I will restart it and run it. If it runs and produces  identical results you will get 100% of the points awarded in the previous step. Otherwise you will get 75%. **Make sure you stop a few minutes before the time expires to rerun the notebook!**
 
 
-**UPLOAD YOUR WORK TO YOUR GITHUB MLPNS REPOSITORY AND SEND ME YOUR REPOSITORY LINK BY EMAIL**
