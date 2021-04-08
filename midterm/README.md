@@ -1,8 +1,12 @@
 # Please read in full before you start!
 
+
+## feel free to ask question on zoom or on slack!
+
+
 This exercise combines the two machine learning methods that you have learned so far in this course: linear regression and clustering. 
 
-There are multiple tasks and for some of them, **if you cannot complete the taks,  there are partial solutions you can access** so you don’t get stuck and can continue the exercise and demonstrate your ability to do the following tasks. I strongly encourage you to do so: there are 10 tasks and you only have ~2 hours! If any task takes you more than 20 minutes you should use the shortcut.
+There are multiple tasks and for some of them, **if you cannot complete the taks,  there are partial solutions you can access** so you don’t get stuck and can continue the exercise and demonstrate your ability to do the following tasks. I strongly encourage you to do so: there are 10 tasks and you only have ~2 hours! If any task takes you more than 20 minutes you should use the shortcut. You can also use a shortcut then go back to write the relevant code if you have time. So long as the notebook runs (so comment out partial code) you will get point for each completed task.
 
 I have collected from the World Bank database population grows time series for several countries. 
 
