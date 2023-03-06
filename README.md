@@ -8,7 +8,7 @@ Welcome to Machine Learning for Physical and Natural Scientists. Universita di P
 
 This is a class developed and taught by Federica Bianco
 
-**This class has a [Code of Conduct](CodeofConduct.md) Before you do any thing else, please review the code of conduct. If you have questions of concerns about it let me know promptly**
+**This class has a [Code of Conduct](CodeofConduct .md) Before you do any thing else, please review the code of conduct. If you have questions of concerns about it let me know promptly**
 
 Please review the [Syllabus](https://bit.ly/MLPNS23_syllabus)
 
