@@ -2,12 +2,12 @@
 
 Universita di Parma 2023
 
-Code of Conduct:
 
 # TL;DR
-# Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempts to marginalize students will be tolerated in this class. Be respectful and collaborate instead of competing: everyone, including you, will benefit from it. If you have concerns please come talk to me 
+## Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempts to marginalize students will be tolerated in this class. Be respectful and collaborate instead of competing: everyone, including you, will benefit from it. If you have concerns please come talk to me 
 
-# The following Code of Conduct applies to all interactions of members of this class in the context of the course, online and offline, including social media, mailing lists, forums, meetings, labs, slack, canvas, and one-to-one interactions.
+# Code of Conduct:
+## The following Code of Conduct applies to all interactions of members of this class in the context of the course, online and offline, including social media, mailing lists, forums, meetings, labs, slack, canvas, and one-to-one interactions.
 If you have concerns, if you do not feel safe or are made to feel unwelcome in this class,  please come talk to me. If you see instances of ill-natured interactions please come talk to me. 
 
 - All members of the class should be treated with respect regardless of personal attributes, including but not limited to: race, ethnicity, gender or gender identity, physical appearance, physical abilities, religious beliefs, political affiliation or opinions, sexual preference, caregiver status, age, nationality, language.
