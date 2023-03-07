@@ -31,7 +31,7 @@ I expect to see a supportive, collaborative attitude from all students to assure
 
 - be conscientious and value your classmates' time when asking for help. Make sure you have done your share of weight lifting: you have reviewed the resources available to the group and looked around for answers when applicable. Prepare yourself to receive help: be prepared to ask clear questions and to be able to show and demonstrate the issues you are having. Your classmates and TAs should not be expected to struggle to understand what your problem or question is
 
-- use your phone or laptop or phone while in class or lab to work on exercises together and take notes or find resources to contribute to the conversation (when allowed). This is out of respect for your classmates, TAs, and instructors: if they are speaking they should be heard!
+- use your phone or laptop or phone while in class or lab to work on exercises together and take notes or find resources to contribute to the conversation (when allowed), not to browse the internet and engage in non class-related activities. This is out of respect for your classmates and instructors: if they are speaking they should be heard!
 
 - be on time for class
 
