@@ -11,7 +11,7 @@ Reproduce the use of the KS test in [Corral 2018](https://arxiv.org/pdf/0910.005
  
  - follow the instructions in the notebook [KS_earthquakes.ipynb](KS_earthquakes.ipynb) 
  
-data: https://github.com/fedhere/MLPNS_FBianco/blob/main/statistics/KStest/earthquakes.csv
+data: earthquakes.csv
 
 notebook with missing code: https://github.com/fedhere/MLPNS_FBianco/blob/main/statistics/KStest/KS_test_solution.ipynb
 
