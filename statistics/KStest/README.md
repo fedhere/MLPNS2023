@@ -11,13 +11,13 @@ Reproduce the use of the KS test in [Corral 2018](https://arxiv.org/pdf/0910.005
  
  - follow the instructions in the notebook [KS_earthquakes.ipynb](KS_earthquakes.ipynb) 
  
-- data: earthquakes.csv
+ - data: earthquakes.csv
 
-- notebook with missing code: [KS_test_solution.ipynb](KS_test_solution.ipynb)
+ - notebook with missing code: [KS_test_solution.ipynb](KS_test_solution.ipynb)
 
-- solution notebook: [KS_earthquakes.ipynb](KS_earthquakes.ipynb)
+ - solution notebook: [KS_earthquakes.ipynb](KS_earthquakes.ipynb)
 
-- in-class solution to datetime conversion: [KS_earthquake_inclass.ipynb](KS_earthquake_inclass.ipynb)
+ - in-class solution to datetime conversion: [KS_earthquake_inclass.ipynb](KS_earthquake_inclass.ipynb)
 
-- pseudocode to direct the development of the comparison of subsets of data: [Corral2018pseudocodeKStest.md](Corral2018pseudocodeKStest.md)
+ - pseudocode to direct the development of the comparison of subsets of data: [Corral2018pseudocodeKStest.md](Corral2018pseudocodeKStest.md)
 
