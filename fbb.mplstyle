@@ -29,3 +29,17 @@ axes.prop_cycle    : cycler('color', ['4682b4', 'F38400', '875692', 'BE0032', 'C
                       ## colorspecs: single letter, long name, or web-style hex
 					             ## Note the use of string escapes here ('1f77b4', instead of 1f77b4)
                       ## as opposed to the rest of this file.
+font.serif: ['DejaVu Serif',
+                         'Bitstream Vera Serif',
+                         'Computer Modern Roman',
+                         'New Century Schoolbook',
+                         'Century Schoolbook L',
+                         'Utopia',
+                         'ITC Bookman',
+                         'Bookman',
+                         'Nimbus Roman No9 L',
+                         'Times New Roman',
+                         'Times',
+                         'Palatino',
+                         'Charter',
+                         'serif'],
