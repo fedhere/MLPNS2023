@@ -6,10 +6,10 @@
  
 **Part 2 Due 4/30** Take a plot you made in the past (for a class of research or even for this class) and make it _better_ following the best practices discussed in class. Post your “before” and “after” in a README.md mark down on GitHub in HW6 folder along with a description of what was improved and why
 
-![image](https://user-images.githubusercontent.com/1696902/139481925-9b25650c-94ec-491f-973b-645ae9110ee7.png)
+![image](https://github.com/fedhere/MLPNS_FBianco/blob/main/vis/139481925-9b25650c-94ec-491f-973b-645ae9110ee7.png)
 
 
-![image](https://user-images.githubusercontent.com/1696902/139481812-3c4ad4f3-efde-4c1c-844f-6c2edd843ede.png)
+![image](https://github.com/fedhere/MLPNS_FBianco/blob/main/vis/139481812-3c4ad4f3-efde-4c1c-844f-6c2edd843ede.png)
 
 This plot suffers from density scaling: the dynamic range of densities of points in different regions of the plot is so significant that it is impossible to perceive simultaneously how dense the dense regions are and how far the data points extend into the parameter space in the original version.
 
