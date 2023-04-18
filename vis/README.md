@@ -4,7 +4,9 @@
  istruzioni https://forms.gle/evfTrUi4SNpMsqBx8 - scegliete  plot e migliorateli sulla base delle regole di Tufte e delle considerazioni fatte in classe | DEADLINE Martedi 4/25
  
  
-**Part 2 Due 4/30** Take a plot you made in the past (for a class of research or even for this class) and make it _better_ following the best practices discussed in class. Post your “before” and “after” in a README.md mark down on GitHub in vis folder along with a description of what was improved and why. For example:
+**Part 2 Due 4/30** Take a plot you made in the past (for a class of research or even for this class) and make it _better_ following the best practices discussed in class. Post your “before” and “after” in a README.md mark down on GitHub in vis folder along with a description of what was improved and why. Ensure the code is in uploaded in the folder as well (does not need to be python and does not need to be a notebook) 
+
+For example:
 
 
 ![image](https://github.com/fedhere/MLPNS_FBianco/blob/main/vis/139481925-9b25650c-94ec-491f-973b-645ae9110ee7.png)
